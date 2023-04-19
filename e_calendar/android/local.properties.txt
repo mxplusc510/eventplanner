@@ -1,0 +1,2 @@
+sdk.dir=/home/jonc0120/Android/Sdk
+flutter.sdk=/home/jonc0120/snap/flutter/common/flutter
